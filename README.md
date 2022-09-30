@@ -1,5 +1,5 @@
-## dxvk-async
-An attempt to improve the dxvk-async patch at https://github.com/jomihaka/dxvk-poe-hack
+## dxvk-async for Xrd
+An already set up version of DVXK async for use in guilty gear xrd on windows 
 
 ### Improvements
 
